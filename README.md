@@ -12,7 +12,7 @@ Driven by curiosity and a passion for innovation, I am always eager to collabora
 
 
 ## Published Research Work/Papers 🔬
-- [![Google Scholar Profile](https://img.shields.io/badge/Google_Scholar_Link-blue?style=for-the-badge&logoSize=auto)](https://scholar.google.co.in/citations?user=feZpwBcAAAAJ&hl=en&oi=ao)
+[![Google Scholar Profile](https://img.shields.io/badge/Google_Scholar_Link-blue?style=for-the-badge&logoSize=auto)](https://scholar.google.co.in/citations?user=feZpwBcAAAAJ&hl=en&oi=ao)
 
 
 ## 🔗 Connect with Me
