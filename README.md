@@ -1,7 +1,7 @@
 # Hey there! My name is Shubham Hadawle
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CF0404&width=700&lines=AI-ML+Engineer+%2F+Software+Engineer+%2F+Data+Scientist)](https://git.io/typing-svg)
 
-## 🚀 About Me
+## About Me 🚀
 Hi, I'm Shubham Hadawle, a passionate AI and Machine Learning enthusiast with a strong foundation in deep learning, natural language processing, and software development. Currently pursuing my Master’s in Computer Science at Northeastern University, I bring a mix of academic excellence and hands-on experience in AI-driven solutions.
 I hold a Bachelor of Engineering in Artificial Intelligence and Data Science from the University of Mumbai, where I developed expertise in machine learning algorithms, data analytics, and deep learning models. My work includes cutting-edge research in anomaly detection, text summarization, and real-world AI applications, leading to publications in Springer Journals.
 
