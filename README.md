@@ -20,7 +20,7 @@ RESEARCH PAPER 2 - [Anomaly Detection in Time Series Data by Forecasting Using F
 
 
 ## Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://play.google.com/store/apps/dev?id=5140541035203910219&pli=1)
+[![Android Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://play.google.com/store/apps/dev?id=5140541035203910219&pli=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-hadawle/)
 
 
