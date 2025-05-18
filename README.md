@@ -14,48 +14,52 @@ Driven by curiosity and a passion for innovation, I am always eager to collabora
 ## Published Research Work/Papers 🔬
 [![Google Scholar Profile](https://img.shields.io/badge/Google_Scholar_Link-blue?style=for-the-badge&logoSize=auto)](https://scholar.google.co.in/citations?user=feZpwBcAAAAJ&hl=en&oi=ao)
 
+REASEARCH PAPER 1 - [Text Summarization of Traditional Indian Languages using Self-Attention Mechanism](https://link.springer.com/chapter/10.1007/978-981-97-9112-5_29)
 
-## 🔗 Connect with Me
+RESEARCH PAPER 2 - [Anomaly Detection in Time Series Data by Forecasting Using Facebook Prophet](https://link.springer.com/chapter/10.1007/978-3-031-35644-5_16)
+
+
+## Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://play.google.com/store/apps/dev?id=5140541035203910219&pli=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-hadawle/)
 
-## 💼 Professional Experience
 
-### 🤖 ---- (2023-2024)
-- Engineered recommendation engine using reinforcement learning with PyTorch, achieving 25% increase in user retention
-- Developed multilingual NLP pipelines with 30% accuracy improvement
-- Implemented Open-Domain QA system with Dense Passage Retrieval, reducing unanswered queries by 15%
-- Integrated LLMs and advanced embedding techniques for enhanced chatbot functionality
+## Professional Experience 💼
+### Bhabha Atomic Research Centre (BARC), Mumbai, India
+Deep Learning Intern – Security Electronics and Cyber Technology Division
+- BARC is India's premier nuclear research and development facility that focuses on nuclear energy and its applications
+• Used Deep Neural Networks to solve Point Kinetic Equations that simulate the behaviour of the nuclear reactor that uses U-235 as fuel. Worked on LSTMs, VAEs and Neural ODEs for modelling Non-Linear Dynamics.
 
-### 📈 ---- (2022)
-- Developed trading models using Monte Carlo simulations and Alpha Hedging
-- Achieved 85% model accuracy through advanced feature engineering
-- Automated portfolio strategies like Straddle and Iron Condor
 
-### 🧠 ----(2022)
-- Built deep learning projects with CNNs achieving 89% accuracy
-- Developed YOLOv4 and SSD object detection models
-- Deployed solutions using AWS and Flask APIs
+### Nvidia DLI Workshops, Remote
+Nvidia DLI Workshops, Remote February 2023 – March 2023
+- Training Assistant for Nvidia DLI Workshops on Fundamentals of Deep Learning conducted by Nvidia.
+• Assisted the lecturer to teach the Basics of DL to over 200 students.
+• Taught Python, Keras, Tensorflow, PyTorch, Convolutional Neural Networks, RNNs, LSTM.
 
-### 💻 ----- (2021-2022)
-- Designed scalable microservices architecture with Spring Boot and Node.js
-- Improved data retrieval speed by 25% using Redis caching
-- Implemented automated testing suite increasing code coverage by 30%
+### Vivekanand Education Society's Institute of Technology, Mumbai
+- Machine Learning Intern / Data Science Intern
+Research Internship on Anomaly Detection in Time-Series Data using Unsupervised Machine Learning and Facebook Prophet, an opensource library for forecasting in R or Python.
+• Paper authored, presented and published on the related research in the international journal Springer Publications in July 2023, CCIS, 
+Volume 1782, ISBN: 978-3-031-35644-5
+
+### Stocc Guru, Mumbai, India
+- Android Development Intern
+Interned as an Android Developer at a FinTech Start-up to create a social app for promoting stock market investments and financial 
+education along with updates on latest happenings in the financial world.
+• Utilized Java, Python, Flask, REST APIs, Postman, XML Scripting Language for the same.
+
 
 ## Tech Stack
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### ML/DL Frameworks
@@ -88,7 +92,6 @@ Driven by curiosity and a passion for innovation, I am always eager to collabora
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -113,15 +116,13 @@ Driven by curiosity and a passion for innovation, I am always eager to collabora
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
-## 🏆 Achievements
-- 
-
 ## GitHub Stats 📊
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shubham-hadawle&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-hadawle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-hadawle&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📫 How to reach me
 - 📧 Email: shubham.hadawle@gmail.com
