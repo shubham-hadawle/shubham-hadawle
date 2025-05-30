@@ -6,7 +6,7 @@ Hi, I'm Shubham Hadawle, a passionate AI and Machine Learning enthusiast with a 
 I hold a Bachelor of Engineering in Artificial Intelligence and Data Science from the University of Mumbai, where I developed expertise in machine learning algorithms, data analytics, and deep learning models. My work includes cutting-edge research in anomaly detection, text summarization, and real-world AI applications, leading to publications in Springer Journals.
 
 Professionally, I have worked as a Deep Learning Intern at Bhabha Atomic Research Centre (BARC), where I applied Neural ODEs, VAEs, and LSTMs to simulate nuclear reactor behavior. I’ve also served as a Training Assistant for Nvidia's Deep Learning Institute, educating over 200 students in TensorFlow, PyTorch, and advanced AI techniques.
-Apart from AI, I have Android development experience, having built and published multiple apps—including an AI chatbot Synapse on the Google Play Store. My technical skills include Python, Java, C++, React.js, AWS, Microsoft Azure, and expertise in data pipelines, database management, and cloud computing.
+Apart from AI, I have Android development experience, having built and published multiple apps—including an AI chatbot Synapse on the Google Play Store. My technical skills include Python, Java, C++, AWS, Microsoft Azure, and expertise in data pipelines, database management, and cloud computing.
 Driven by curiosity and a passion for innovation, I am always eager to collaborate, explore new technologies, and push the boundaries of AI-driven solutions.
 
 
