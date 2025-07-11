@@ -27,33 +27,33 @@ RESEARCH PAPER 2 - [Anomaly Detection in Time Series Data by Forecasting Using F
 ## Professional Experience 💼
 ### Axis Bank
 GenAI/LLM - Machine Learning Intern
-- Business Intelligence Unit
+Business Intelligence Unit
 - Working with GraphRAG (Graph Retrieval-Augmented Generation) to enhance LLMs (Large Language Models) by combining graph-based knowledge with retrieval techniques for more accurate and context-aware outputs. 
 - Used GraphRAG in Text-to-SQL systems, where it helps map natural language queries to SQL by leveraging structured schema graphs for better context and accuracy.
 
 ### Bhabha Atomic Research Centre (BARC), Mumbai, India
 Deep Learning Intern – Security Electronics and Cyber Technology Division
 - BARC is India's premier nuclear research and development facility that focuses on nuclear energy and its applications
-• Used Deep Neural Networks to solve Point Kinetic Equations that simulate the behaviour of the nuclear reactor that uses U-235 as fuel. Worked on LSTMs, VAEs and Neural ODEs for modelling Non-Linear Dynamics.
+- Used Deep Neural Networks to solve Point Kinetic Equations that simulate the behaviour of the nuclear reactor that uses U-235 as fuel. Worked on LSTMs, VAEs and Neural ODEs for modelling Non-Linear Dynamics.
 
 
 ### Nvidia DLI Workshops, Remote
 Nvidia DLI Workshops, Remote February 2023 – March 2023
 - Training Assistant for Nvidia DLI Workshops on Fundamentals of Deep Learning conducted by Nvidia.
-• Assisted the lecturer to teach the Basics of DL to over 200 students.
-• Taught Python, Keras, Tensorflow, PyTorch, Convolutional Neural Networks, RNNs, LSTM.
+- Assisted the lecturer to teach the Basics of DL to over 200 students.
+- Taught Python, Keras, Tensorflow, PyTorch, Convolutional Neural Networks, RNNs, LSTM.
 
 ### Vivekanand Education Society's Institute of Technology, Mumbai
-- Machine Learning Intern / Data Science Intern
-Research Internship on Anomaly Detection in Time-Series Data using Unsupervised Machine Learning and Facebook Prophet, an opensource library for forecasting in R or Python.
-• Paper authored, presented and published on the related research in the international journal Springer Publications in July 2023, CCIS, 
+Machine Learning Intern / Data Science Intern
+- Research Internship on Anomaly Detection in Time-Series Data using Unsupervised Machine Learning and Facebook Prophet, an opensource library for forecasting in R or Python.
+- Paper authored, presented and published on the related research in the international journal Springer Publications in July 2023, CCIS, 
 Volume 1782, ISBN: 978-3-031-35644-5
 
 ### Stocc Guru, Mumbai, India
-- Android Development Intern
-Interned as an Android Developer at a FinTech Start-up to create a social app for promoting stock market investments and financial 
+Android Development Intern
+- Interned as an Android Developer at a FinTech Start-up to create a social app for promoting stock market investments and financial 
 education along with updates on latest happenings in the financial world.
-• Utilized Java, Python, Flask, REST APIs, Postman, XML Scripting Language for the same.
+- Utilized Java, Python, Flask, REST APIs, Postman, XML Scripting Language for the same.
 
 
 ## Tech Stack
