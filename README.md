@@ -36,8 +36,8 @@ Deep Learning Intern – Security Electronics and Cyber Technology Division
 - Used Deep Neural Networks to solve Point Kinetic Equations that simulate the behaviour of the nuclear reactor that uses U-235 as fuel. Worked on LSTMs, VAEs and Neural ODEs for modelling Non-Linear Dynamics.
 
 
-### Nvidia DLI Workshops, Remote
-Nvidia DLI Workshops, Remote February 2023 – March 2023
+### Nvidia Deep Learning Institute Workshops, Remote
+Nvidia DLI Workshops, Remote 
 - Training Assistant for Nvidia DLI Workshops on Fundamentals of Deep Learning conducted by Nvidia.
 - Assisted the lecturer to teach the Basics of DL to over 200 students.
 - Taught Python, Keras, Tensorflow, PyTorch, Convolutional Neural Networks, RNNs, LSTM.
