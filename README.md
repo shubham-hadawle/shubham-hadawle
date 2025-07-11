@@ -26,8 +26,7 @@ RESEARCH PAPER 2 - [Anomaly Detection in Time Series Data by Forecasting Using F
 
 ## Professional Experience 💼
 ### Axis Bank
-GenAI/LLM - Machine Learning Intern
-Business Intelligence Unit
+GenAI/LLM - Machine Learning Intern | Business Intelligence Unit
 - Working with GraphRAG (Graph Retrieval-Augmented Generation) to enhance LLMs (Large Language Models) by combining graph-based knowledge with retrieval techniques for more accurate and context-aware outputs. 
 - Used GraphRAG in Text-to-SQL systems, where it helps map natural language queries to SQL by leveraging structured schema graphs for better context and accuracy.
 
