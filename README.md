@@ -10,6 +10,8 @@ Apart from AI, I have Android development experience, having built and published
 Driven by curiosity and a passion for innovation, I am always eager to collaborate, explore new technologies, and push the boundaries of AI-driven solutions.
 
 
+[![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
+
 
 ## Published Research Work/Papers 🔬
 [![Google Scholar Profile](https://img.shields.io/badge/Google_Scholar_Link-blue?style=for-the-badge&logoSize=auto)](https://scholar.google.co.in/citations?user=feZpwBcAAAAJ&hl=en&oi=ao)
@@ -85,16 +87,12 @@ education along with updates on latest happenings in the financial world.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -124,8 +122,6 @@ education along with updates on latest happenings in the financial world.
 ## GitHub Stats 📊
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shubham-hadawle&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-hadawle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
 
 
