@@ -44,7 +44,7 @@ Nvidia DLI Workshops, Remote
 
 ### Vivekanand Education Society's Institute of Technology, Mumbai
 Machine Learning Intern / Data Science Intern
-- Research Internship on Anomaly Detection in Time-Series Data using Unsupervised Machine Learning and Facebook Prophet, an opensource library for forecasting in R or Python.
+- Research Internship on Anomaly Detection in Time-Series Data using Unsupervised Machine Learning and Facebook Prophet, an open-source library for forecasting in R or Python.
 - Paper authored, presented and published on the related research in the international journal Springer Publications in July 2023, CCIS, 
 Volume 1782, ISBN: 978-3-031-35644-5
 
