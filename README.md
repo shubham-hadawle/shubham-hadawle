@@ -125,9 +125,8 @@ education along with updates on latest happenings in the financial world.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shubham-hadawle&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-hadawle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
+[![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
-[![My's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-hadawle&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 📫 How to reach me
