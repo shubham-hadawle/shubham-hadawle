@@ -124,7 +124,7 @@ education along with updates on latest happenings in the financial world.
 
 ## 📫 How to reach me
 - 📧 Email: shubham.hadawle@gmail.com
-- 🌐 Portfolio: [Android Portfolio](https://play.google.com/store/apps/dev?id=5140541035203910219&pli=1)
+- 🌐 Android Developer: [Android Portfolio](https://play.google.com/store/apps/dev?id=5140541035203910219&pli=1)
 - 💼 LinkedIn: [Shubham Hadawle](https://www.linkedin.com/in/shubham-hadawle/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubham-hadawle)
