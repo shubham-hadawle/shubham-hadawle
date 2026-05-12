@@ -10,6 +10,20 @@ Beyond my professional internships, I am an active creator and researcher dedica
 [![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
 
+## My Personal Website
+```console
+user@github:~$ ./initialize_portfolio.sh
+[+] Booting digital presence...
+[+] Loading projects and assets... [████████████████] 100%
+[+] System ready.
+user@github:~$ echo "Click the secure output link below to proceed:"
+```
+
+<div align="center">
+  <h2><code><kbd>Scrapped the Internet</kbd> for <a href="https://shubhams-website-portfolio.vercel.app/"><b>Shubham's website portfolio</b></a></code></h2>
+</div>
+
+
 ## Published Research Work/Papers 🔬
 [![Google Scholar Profile](https://img.shields.io/badge/Google_Scholar_Link-blue?style=for-the-badge&logoSize=auto)](https://scholar.google.co.in/citations?user=feZpwBcAAAAJ&hl=en&oi=ao)
 
