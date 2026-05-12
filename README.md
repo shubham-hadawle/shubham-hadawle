@@ -20,7 +20,7 @@ user@github:~$ echo "Click the secure link below to proceed:"
 ```
 
 <div align="center">
-  <h2><code><kbd>Scrapped the Internet</kbd> for <a href="https://shubhams-website-portfolio.vercel.app/"><b>Shubham's website portfolio</b></a></code></h2>
+  <h2><code><kbd>Click the Link for:</kbd> <a href="https://shubhams-website-portfolio.vercel.app/"><b>Shubham's website portfolio</b></a></code></h2>
 </div>
 
 
