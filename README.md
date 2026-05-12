@@ -12,11 +12,11 @@ Beyond my professional internships, I am an active creator and researcher dedica
 
 ## My Personal Website
 ```console
-user@github:~$ ./initialize_portfolio.sh
+user@github:~$ /searching the internet Shubham's website
 [+] Booting digital presence...
-[+] Loading projects and assets... [████████████████] 100%
-[+] System ready.
-user@github:~$ echo "Click the secure output link below to proceed:"
+[+] Loading files and assets... [████████████████] 100%
+[+] Webpage ready.
+user@github:~$ echo "Click the secure link below to proceed:"
 ```
 
 <div align="center">
@@ -103,8 +103,6 @@ RESEARCH PAPER 2 - [Anomaly Detection in Time Series Data by Forecasting Using F
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shubham-hadawle&theme=dark)](https://git.io/streak-stats)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-hadawle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 
 ## 📫 How to reach me
 - 📧 Email: shubham.hadawle@gmail.com
